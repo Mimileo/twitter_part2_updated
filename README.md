@@ -31,6 +31,8 @@ When composing a tweet, user sees a countdown for the number of characters remai
 <img src='https://i.imgur.com/T1o6IOB.gif' title='Video Walkthrough' width='300' alt='Video Walkthrough' />
 
 User can view their profile in a profile tab. Tweets by user was 0
+ - Contains the user header view: picture and tagline
+ - Contains a section with the users basic stats: # tweets, # following, # followers
 
 <img src='https://i.imgur.com/cSbcGvp.gif' title='Video Walkthrough' width='300' alt='Video Walkthrough' />
 
