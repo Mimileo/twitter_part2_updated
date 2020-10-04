@@ -25,13 +25,21 @@ The following **bonus** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 <img src='https://i.imgur.com/xjLdmqG.gif' title='Video Walkthrough' width='300' alt='Video Walkthrough' />
+
 When composing a tweet, user sees a countdown for the number of characters remaining for the tweet (out of 280)
+
 <img src='https://i.imgur.com/T1o6IOB.gif' title='Video Walkthrough' width='300' alt='Video Walkthrough' />
+
 User can view their profile in a profile tab. Tweets by user was 0
+
 <img src='https://i.imgur.com/cSbcGvp.gif' title='Video Walkthrough' width='300' alt='Video Walkthrough' />
-User can retweet a tweet. Tweets by user now 1
+
+User can retweet a tweet. Tweets by user now 1 (Slow update due to internet connection)
+
 <img src='https://i.imgur.com/PALpj0w.gif' title='Video Walkthrough' width='300' alt='Video Walkthrough' />
+
 User can favorite a tweet/ User sees embedded images in tweet if available
+
 <img src='https://i.imgur.com/voxWW5e.gif' title='Video Walkthrough' width='300' alt='Video Walkthrough' />
 
 
