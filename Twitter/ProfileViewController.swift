@@ -61,7 +61,7 @@ class ProfileViewController: UIViewController {
             
             let imageUrl = URL(string: url as! String)
             let data = try? Data(contentsOf: imageUrl!)
-                       
+            print(imageUrl)
             if let imageData = data {
                 self.headerImageView.image = UIImage(data: imageData)
             }
