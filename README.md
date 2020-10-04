@@ -16,15 +16,33 @@ The following **required** functionality is completed:
 
 The following **bonus** features are implemented:
 
-- [ ] When composing a tweet, user sees a countdown for the number of characters remaining for the tweet (out of 280) (2pts)
-- [ ] User can view their profile in a profile tab. (3pts)
-- [ ] User sees embedded images in tweet if available. (3pts)
+- [x] When composing a tweet, user sees a countdown for the number of characters remaining for the tweet (out of 280) (2pts)
+- [x] User can view their profile in a profile tab. (3pts)
+- [x] User sees embedded images in tweet if available. (3pts)
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/xjLdmqG.gif' title='Video Walkthrough' width='300' alt='Video Walkthrough' />
+
+When composing a tweet, user sees a countdown for the number of characters remaining for the tweet (out of 280)
+
+<img src='https://i.imgur.com/T1o6IOB.gif' title='Video Walkthrough' width='300' alt='Video Walkthrough' />
+
+User can view their profile in a profile tab. Tweets by user was 0
+
+<img src='https://i.imgur.com/cSbcGvp.gif' title='Video Walkthrough' width='300' alt='Video Walkthrough' />
+
+User can retweet a tweet. Tweets by user now 1 (Slow update due to internet connection)
+
+<img src='https://i.imgur.com/PALpj0w.gif' title='Video Walkthrough' width='300' alt='Video Walkthrough' />
+
+User can favorite a tweet/ User sees embedded images in tweet if available
+
+<img src='https://i.imgur.com/voxWW5e.gif' title='Video Walkthrough' width='300' alt='Video Walkthrough' />
+
+
 
 # Project 3 - Tweeter
 
